@@ -1,4 +1,5 @@
 # Ödev 1
-= GitHub'ta Repo İşlemleri
+GitHub'ta Repo İşlemleri
+
 
 
